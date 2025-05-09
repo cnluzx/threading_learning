@@ -1,3 +1,6 @@
+###创建了俩个线程thread1 和thread2，并启动
+
+
 import threading
 import time 
 
